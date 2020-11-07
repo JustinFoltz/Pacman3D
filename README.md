@@ -14,7 +14,7 @@ Pacman3DGame is a web game from Pacman realized in 3D thanks to the ThreeJS libr
 
 ThreeJs, Bootstrap, JQuery
 
-## Running the project
+## How to launch the project
 
 To launch the project it is simply necessary to open the *Pacman3D.html* file in a browser.
 The project has only been tested on firefox.
