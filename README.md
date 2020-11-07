@@ -1,18 +1,20 @@
 
-# Pacman 3D Game
+# Pacman3DGame
 
-**Réalisé par:** Justin Foltz
+**Directed by:** Justin Foltz
 **Date** : 12.2019
 
-## Le projet
+## The project
 
-Ce projet consiste a developper un jeu Pacman en 3D en utilisant la librairie TreeJS.
+Pacman3DGame is a web game from Pacman realized in 3D thanks to the ThreeJS library. The goal is to collect all the food present in the different levels by moving Pacman thanks to the keyboard keys. Each time, enemies are present and automatically move in the direction of Pacman by estimating, for each frame, the best direction to take. 
+
+![](./img/pacman.jpg)
 
 ## Technologies
 
 ThreeJs, Bootstrap, JQuery
 
-## Lancement du projet
+## Running the project
 
-Pour lancer le projet il est simplement necessaire d'ouvrir le fichier *Pacman3D.html* dans un navigateur.
-Le projet a uniquement été testé sur firefox.
+To launch the project it is simply necessary to open the *Pacman3D.html* file in a browser.
+The project has only been tested on firefox.
