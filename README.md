@@ -1,7 +1,7 @@
 
 # Pacman3DGame
 
-**Directed by:** Justin Foltz
+Developed by:** Justin Foltz
 **Date** : 12.2019
 
 ## The project
